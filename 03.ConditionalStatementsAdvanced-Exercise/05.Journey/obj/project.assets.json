@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\05.Journey\\05.Journey.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\05.Journey\\05.Journey.csproj",
       "projectName": "05.Journey",
-      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\05.Journey\\05.Journey.csproj",
+      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\05.Journey\\05.Journey.csproj",
       "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\05.Journey\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\05.Journey\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\03.NewHouse.csproj",
+      "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\03.NewHouse.csproj",
       "projectName": "03.NewHouse",
-      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\03.NewHouse.csproj",
+      "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\03.NewHouse.csproj",
       "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\obj\\",
+      "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\03.NewHouse\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

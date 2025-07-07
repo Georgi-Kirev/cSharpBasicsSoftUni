@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj": {}
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj": {
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj",
+        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj",
         "projectName": "09.SkiTrip",
-        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj",
+        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\09.SkiTrip.csproj",
         "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\obj\\",
+        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\03.ConditionalStatementsAdvanced-Exercise\\09.SkiTrip\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
