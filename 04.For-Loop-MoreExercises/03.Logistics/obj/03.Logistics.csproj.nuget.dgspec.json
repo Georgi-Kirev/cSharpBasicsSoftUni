@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj": {}
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj": {
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj",
+        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj",
         "projectName": "03.Logistics",
-        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj",
+        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\03.Logistics.csproj",
         "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\obj\\",
+        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\03.Logistics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

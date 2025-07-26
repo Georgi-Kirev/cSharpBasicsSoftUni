@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj": {}
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj": {
+    "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj",
+        "projectUniqueName": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj",
         "projectName": "05.GameOfIntervals",
-        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj",
+        "projectPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\05.GameOfIntervals.csproj",
         "packagesPath": "C:\\Users\\Georgi Kirev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\obj\\",
+        "outputPath": "C:\\Users\\Georgi Kirev\\Desktop\\IT All\\cSharpBasicsSoftUni\\04.For-Loop-MoreExercises\\05.GameOfIntervals\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
